@@ -1,8 +1,0 @@
-wwwroot\Test.Html
-wwwroot\test2.html
-wwwroot\Test2Css.css
-wwwroot\Test2JS.js
-wwwroot\AdminAcW.html
-wwwroot\adminJs.js
-wwwroot\TestCSS.css
-wwwroot\TestJS.js
